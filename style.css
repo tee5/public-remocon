@@ -31,9 +31,7 @@ button {
     margin: 20px 0 0 20px;
 }
 
-button:active,
-button:focus,
-button:hover {
+button:active {
     border-radius: 50px;
     background: #e2e6e9;
     box-shadow: inset 20px 20px 60px #c0c4c6, 
