@@ -8,7 +8,8 @@ body {
 }
 
 div.content {
-    width: 500px;
+    padding-left: 10px;
+    width: 480px;
     margin: 100px auto;
 }
 button {
@@ -22,7 +23,7 @@ button {
     background: #e2e6e9;
     box-shadow:  20px 20px 60px #c0c4c6, 
                 -20px -20px 60px #ffffff;
-    margin: 20px;
+    margin: 20px 0 0 20px;
 }
 
 button:active {
